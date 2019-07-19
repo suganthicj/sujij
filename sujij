@@ -1,0 +1,7 @@
+A1= int(input())
+if (A1>0):
+    print("Positive")
+elif (A1<0):
+    print("Negative")
+else:
+    print("Zero")
